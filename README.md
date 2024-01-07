@@ -22,8 +22,13 @@
 ##License
 This project is licensed under the MIT License - see the LICENSE file for details.
 
+
+
 ##Acknowledgments
 Inspired by the classic [Whack-a-Mole](https://www.crazygames.com/game/whack-a-mole) game.
+
+## Demo
+Check out the [Demo Version](https://eldanizakbar.github.io/Whack-a-Mole/) of the website.
 
 
 Feel free to contribute, report issues, or suggest improvements. Happy gaming!
